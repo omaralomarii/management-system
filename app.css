@@ -1,0 +1,21 @@
+table{
+
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    /* background-color: #04AA6D; */
+   
+    border-collapse: collapse;
+    width: 90%;
+    
+}
+table th{color: brown;
+    border: 1px solid grey;
+    padding: 8px;}
+
+table tr{color: dimgray;}
+
+table td{border: 1px solid grey;}
+body{
+    background-color: cornsilk;
+}
