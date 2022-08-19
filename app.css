@@ -3,10 +3,12 @@ table{
     padding-top: 12px;
     padding-bottom: 12px;
     text-align: center;
-    /* background-color: #04AA6D; */
+    
    
     border-collapse: collapse;
-    width: 90%;
+    width: 60%;
+    
+  
     
 }
 table th{color: brown;
@@ -18,4 +20,12 @@ table tr{color: dimgray;}
 table td{border: 1px solid grey;}
 body{
     background-color: cornsilk;
+}
+
+.all{
+    text-align: center;
+}
+
+#cars{
+    display: inline;
 }
